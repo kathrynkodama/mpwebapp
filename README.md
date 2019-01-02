@@ -1,3 +1,10 @@
+## Basic MicroProfile Web Application
+The purpose of this application is to learn about implementing MicroProfile with WebSphere Liberty.
+
+### Current MicroProfile feature usages
+* JAX-RS (https://github.com/kathrynkodama/mpwebapp/blob/master/src/main/java/application/rest/JaxrsApplication.java)
+* JSON-P (https://github.com/kathrynkodama/mpwebapp/blob/master/src/main/java/application/rest/JaxrsResource.java)
+
 ## Basic Web
 IBM Cloud Basic Web Starter for Java - MicroProfile / Java EE
 
